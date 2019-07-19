@@ -4,7 +4,7 @@ Machine learning is basically a system that gives the computer the ability to se
 ## Types of Machine Learning
 
 <p align="center">
-<img src="./Figures/ML1.jpg"></br>
+<img src="./Figures/ML1.JPG"></br>
 Figure 1.1: Types of Machine Learning 
 </br></br>
 
