@@ -8,4 +8,4 @@ Machine learning is basically a system that gives the computer the ability to se
 Figure 1.1: Types of Machine Learning 
 </br></br>
 
-This repository contains jupyter notebook files that I worked on for 5 weeks. Each week there was a new scneario in which I had to implement different concepts of machine learning to get the desired outputs.
+This repository contains jupyter notebook files that I worked on for 5 weeks. Each week there was a new scenario in which I had to implement different concepts of machine learning to get the desired outputs.
